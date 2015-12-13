@@ -1,0 +1,47 @@
+/* Style the header with a background color */
+header {
+	background-color: #C0C0C0; /* Silver */
+}
+/* h1 elements should be centered and have a new font color */
+h1 {
+	color: #FFFFFF; /* White */
+	text-align: center;
+	text-transform: uppercase;
+	font-family: "Trebuchet MS", Helvetica, sans-serif; 
+	font-size: 40px;
+}
+/* h2 elements have a new font color */
+h2 {
+	color: #00008B; /* DarkBlue */
+	text-transform: uppercase; /* style headings to have uppercase text */
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 30px;
+}
+/* sections should have a new background color */
+section {
+	background-color: #A9A9A9; /* DarkGray */
+}
+/* a elements should be centered and have a new font color and background color */
+a {
+	text-align: center;
+	color: #000000; /* Black */
+	background-color: #D3D3D3; /* LightGray */ 
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+/* the images should not be on the page */ 
+img {
+	display: none;
+}
+p {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;	
+}
+table, td, th {
+    border: 1px solid DimGray;
+}
+table {
+    border-collapse: collapse;
+}
+th {
+    text-align: left;
+}
